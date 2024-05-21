@@ -13,7 +13,5 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white&color=blue)
 &nbsp;&nbsp;&nbsp;
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white&color=navy)
-&nbsp;&nbsp;&nbsp;
-![PS5](https://img.shields.io/badge/PlayStation5-%23EE4C2C.svg?style=for-the-badge&logo=PlayStation5&logoColor=white&color=blueviolet)
   
 </div>
