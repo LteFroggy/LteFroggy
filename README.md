@@ -12,6 +12,6 @@
 &nbsp;&nbsp;&nbsp;
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white&color=blue)
 &nbsp;&nbsp;&nbsp;
-![SKLearn](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=ScikitLearn&logoColor=white&color=navy)
+![SKLearn](https://img.shields.io/badge/ScikitLearn-%23EE4C2C.svg?style=for-the-badge&logo=ScikitLearn&logoColor=white&color=navy)
   
 </div>
