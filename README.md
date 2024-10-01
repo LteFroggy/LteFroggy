@@ -6,7 +6,7 @@
 &nbsp;&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&color=orange)
 &nbsp;&nbsp;&nbsp;
-![Cloud Server](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Cloud_Server-007396?style=for-the-badge&logo=Java&logoColor=white&color=yellow)
 &nbsp;&nbsp;&nbsp;
 ![Flask](https://img.shields.io/badge/Flask-%23EE4C2C.svg?style=for-the-badge&logo=flask&logoColor=white&color=brightgreen)
 &nbsp;&nbsp;&nbsp;
