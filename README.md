@@ -1,4 +1,4 @@
-# 정호종 | Game Client Developer
+# 정호종 | 게임 클라이언트 개발자
 
 > 데이터 흐름과 시스템 구조를 먼저 설계하여 구현 비용을 줄이는 게임 클라이언트 개발자 정호종입니다.
 
@@ -13,7 +13,7 @@
 
 ---
 
-## 🎮 Featured Projects
+## 🎮 대표 프로젝트
 
 | 프로젝트 | 핵심 기술 | 특징 및 장르 | 바로가기 |
 | --- | --- | --- | --- |
@@ -23,9 +23,9 @@
 
 ---
 
-## 💻 Tech Stacks
+## 💻 기술 스택
 
-### Game Development
+### 게임 개발
 <p>
   <img src="https://img.shields.io/badge/Unity_6-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity 6" />
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/Netcode_for_GameObjects-000000?style=flat-square&logo=unity&logoColor=white" alt="NGO" />
 </p>
 
-### Data & Infrastructure
+### 데이터 및 인프라
 <p>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
@@ -41,7 +41,7 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
 </p>
 
-### Tools & Collaboration
+### 도구 및 협업
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
@@ -50,7 +50,7 @@
 
 ---
 
-## 🧩 Problem Solving & RnD
+## 🧩 C++ 문제 해결 역량
 
 > C++ 기반으로 자료구조와 알고리즘을 2년 이상 학습하며 300문제 이상 해결
 
@@ -61,7 +61,7 @@
 
 ---
 
-## 🌐 Background Experience
+## 🌐 게임 이전의 개발 경험
 
 > 게임 클라이언트 전향 전 웹 백엔드 프로젝트에서 실시간 데이터 및 분산 처리를 다룬 경험
 
