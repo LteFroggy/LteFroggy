@@ -13,12 +13,53 @@
 
 ---
 
-## 🎮 대표 프로젝트
+## 🎮 대표 출시작
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <h3>미확인 개체 대응반</h3>
+      <a href="https://store.onstove.com/ko/games/105710" target="_blank">
+        <img src="assets/undercover_play.gif" alt="미확인 개체 대응반 플레이 화면" width="100%"/>
+      </a>
+      <p align="center">
+        <b>4인 협동 잠입 추리 멀티플레이 게임</b><br>
+        Unity 6 · C# · Netcode for GameObjects
+      </p>
+      <p align="center">
+        <a href="https://store.onstove.com/ko/games/105710" target="_blank">
+          <img src="https://img.shields.io/badge/STOVE_STORE-출시_페이지-FF5C00?style=flat-square&logo=gameandwatch&logoColor=white" alt="STOVE 스토어 바로가기"/>
+        </a>
+        <a href="https://github.com/yoonjisu1201/undercover-project-team5" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white" alt="깃허브 저장소"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%" align="center">
+      <h3>Break the Crown</h3>
+      <a href="https://store.onstove.com/ko/games/104972" target="_blank">
+        <img src="assets/btc_play.gif" alt="Break the Crown 플레이 화면" width="100%"/>
+      </a>
+      <p align="center">
+        <b>덱빌딩 로그라이크 게임</b><br>
+        Unity 6 · C# · ScriptableObject
+      </p>
+      <p align="center">
+        <a href="https://store.onstove.com/ko/games/104972" target="_blank">
+          <img src="https://img.shields.io/badge/STOVE_STORE-출시_페이지-FF5C00?style=flat-square&logo=gameandwatch&logoColor=white" alt="STOVE 스토어 바로가기"/>
+        </a>
+        <a href="https://github.com/Devel-Rocket-ClassRoom/minigame-project-LteFroggy" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white" alt="깃허브 저장소"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+### 그 외 프로젝트
 
 | 프로젝트 | 핵심 기술 | 특징 및 장르 | 바로가기 |
 | --- | --- | --- | --- |
-| **미확인 개체 대응반** | Unity 6, C#, Netcode for GameObjects | 4인 협동 잠입 추리 멀티플레이<br>**STOVE 스토어 정식 출시** | [🛒 STOVE 스토어](https://store.onstove.com/ko/games/105710)<br>[📦 GitHub 저장소](https://github.com/yoonjisu1201/undercover-project-team5) |
-| **Break the Crown** | Unity 6, C# | 덱빌딩 로그라이크<br>**STOVE 스토어 정식 출시** | [🛒 STOVE 스토어](https://store.onstove.com/ko/games/104972)<br>[📦 GitHub 저장소](https://github.com/Devel-Rocket-ClassRoom/minigame-project-LteFroggy) |
 | **쿠키런 스타일 2D 러너** | Unity, C# | FSM 기반 횡스크롤 2D 러너<br>캐릭터별 행동 확장 구조 설계 | [📦 GitHub 저장소](https://github.com/Devel-Rocket-ClassRoom/toy-project-0-team-8) |
 
 ---
