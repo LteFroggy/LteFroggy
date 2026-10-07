@@ -4,10 +4,11 @@
 
 <p align="center">
   <a href="https://www.notion.so/3cbdd6c432c1816d9ff1f182facaaff0" target="_blank">
-    <img src="https://img.shields.io/badge/Notion_Portfolio-포트폴리오_보러가기-000000?style=flat-square&logo=notion&logoColor=white" alt="노션 포트폴리오" />
+    <img src="https://img.shields.io/badge/Notion_Portfolio-포트폴리오_보러가기-000000?style=for-the-badge&logo=notion&logoColor=white" alt="노션 포트폴리오" />
   </a>
-  <a href="https://github.com/LteFroggy" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-LteFroggy-181717?style=flat-square&logo=github&logoColor=white" alt="깃허브" />
+  <br><br>
+  <a href="https://velog.io/@hsjack77/posts" target="_blank">
+    <img src="https://img.shields.io/badge/Velog-기술_블로그_바로가기-20C997?style=for-the-badge&logo=vimeo&logoColor=white" alt="벨로그" />
   </a>
 </p>
 
