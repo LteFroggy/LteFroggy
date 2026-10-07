@@ -3,7 +3,7 @@
 > 데이터 흐름과 시스템 구조를 먼저 설계하여 구현 비용을 줄이는 게임 클라이언트 개발자 정호종입니다.
 
 <p align="center">
-  <a href="https://www.notion.so/3cbdd6c432c1816d9ff1f182facaaff0" target="_blank">
+  <a href="https://candied-patch-2a0.notion.site/Unity-3cbdd6c432c1816d9ff1f182facaaff0?pvs=74" target="_blank">
     <img src="https://img.shields.io/badge/Notion_Portfolio-포트폴리오_보러가기-000000?style=for-the-badge&logo=notion&logoColor=white" alt="노션 포트폴리오" />
   </a>
   <br><br>
