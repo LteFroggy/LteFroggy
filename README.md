@@ -31,6 +31,7 @@
         <a href="https://store.onstove.com/ko/games/105710" target="_blank">
           <img src="https://img.shields.io/badge/STOVE_STORE-출시_페이지-FF5C00?style=flat-square&logo=gameandwatch&logoColor=white" alt="STOVE 스토어 바로가기"/>
         </a>
+        <br>
         <a href="https://github.com/yoonjisu1201/undercover-project-team5" target="_blank">
           <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white" alt="깃허브 저장소"/>
         </a>
@@ -49,6 +50,7 @@
         <a href="https://store.onstove.com/ko/games/104972" target="_blank">
           <img src="https://img.shields.io/badge/STOVE_STORE-출시_페이지-FF5C00?style=flat-square&logo=gameandwatch&logoColor=white" alt="STOVE 스토어 바로가기"/>
         </a>
+        <br>
         <a href="https://github.com/Devel-Rocket-ClassRoom/minigame-project-LteFroggy" target="_blank">
           <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white" alt="깃허브 저장소"/>
         </a>
